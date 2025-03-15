@@ -1,0 +1,60 @@
+2025-03-15 10:46:39,641 - WARNING -  * Debugger is active!
+2025-03-15 10:46:39,645 - INFO -  * Debugger PIN: 452-009-470
+2025-03-15 10:47:48,548 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-15 10:47:48,548 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-15 10:47:48,550 - INFO -  * Restarting with stat
+2025-03-15 10:47:49,695 - WARNING -  * Debugger is active!
+2025-03-15 10:47:49,698 - INFO -  * Debugger PIN: 452-009-470
+2025-03-15 10:48:37,578 - INFO - ====== WebDriver manager ======
+2025-03-15 10:48:39,403 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-15 10:48:39,596 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-15 10:48:39,750 - INFO - Driver [C:\Users\DELL\.wdm\drivers\chromedriver\win64\134.0.6998.88\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-15 10:48:46,155 - INFO - Selenium extracted 0 emails from https://instagram.com
+2025-03-15 10:48:48,361 - INFO - 127.0.0.1 - - [15/Mar/2025 10:48:48] "POST / HTTP/1.1" 200 -
+2025-03-15 10:49:20,948 - INFO - ====== WebDriver manager ======
+2025-03-15 10:49:22,801 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-15 10:49:22,944 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-15 10:49:23,136 - INFO - Driver [C:\Users\DELL\.wdm\drivers\chromedriver\win64\134.0.6998.88\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-15 10:49:29,331 - INFO - Selenium extracted 0 emails from https://instagram.com
+2025-03-15 10:49:31,527 - INFO - 127.0.0.1 - - [15/Mar/2025 10:49:31] "POST / HTTP/1.1" 200 -
+2025-03-15 10:49:43,184 - INFO - Extracted 0 emails from https://instagram.com
+2025-03-15 10:49:43,185 - INFO - 127.0.0.1 - - [15/Mar/2025 10:49:43] "POST / HTTP/1.1" 200 -
+2025-03-15 10:49:53,811 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-15 10:49:53,811 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-15 10:49:53,813 - INFO -  * Restarting with stat
+2025-03-15 10:49:54,991 - WARNING -  * Debugger is active!
+2025-03-15 10:49:54,994 - INFO -  * Debugger PIN: 452-009-470
+2025-03-15 10:50:25,376 - ERROR - Error extracting emails from https://instagram.com: HTTPSConnectionPool(host='instagram.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F0B5519310>: Failed to resolve 'instagram.com' ([Errno 11001] getaddrinfo failed)"))
+2025-03-15 10:50:25,376 - INFO - 127.0.0.1 - - [15/Mar/2025 10:50:25] "POST / HTTP/1.1" 200 -
+2025-03-15 10:50:40,039 - INFO - ====== WebDriver manager ======
+2025-03-15 10:50:42,080 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-15 10:50:42,270 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-15 10:50:42,448 - INFO - Driver [C:\Users\DELL\.wdm\drivers\chromedriver\win64\134.0.6998.88\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-15 10:50:48,085 - INFO - Selenium extracted 0 emails from https://instagram.com
+2025-03-15 10:50:50,226 - INFO - 127.0.0.1 - - [15/Mar/2025 10:50:50] "POST / HTTP/1.1" 200 -
+2025-03-15 10:55:34,776 - INFO -  * Detected change in 'C:\\Users\\DELL\\Downloads\\python projecte\\email_scraper\\app.py', reloading
+2025-03-15 10:55:35,457 - INFO -  * Detected change in 'C:\\Users\\DELL\\Downloads\\python projecte\\email_scraper\\app.py', reloading
+2025-03-15 10:55:35,517 - INFO -  * Restarting with stat
+2025-03-15 10:55:36,714 - WARNING -  * Debugger is active!
+2025-03-15 10:55:36,717 - INFO -  * Debugger PIN: 452-009-470
+2025-03-15 10:55:40,126 - WARNING -  * Debugger is active!
+2025-03-15 10:55:40,130 - INFO -  * Debugger PIN: 452-009-470
+2025-03-15 10:55:48,140 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-15 10:55:48,140 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-15 10:55:48,141 - INFO -  * Restarting with stat
+2025-03-15 10:55:49,329 - WARNING -  * Debugger is active!
+2025-03-15 10:55:49,332 - INFO -  * Debugger PIN: 452-009-470
+2025-03-15 10:56:01,689 - INFO - 127.0.0.1 - - [15/Mar/2025 10:56:01] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2025-03-15 10:56:02,008 - INFO - 127.0.0.1 - - [15/Mar/2025 10:56:02] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-03-15 10:56:02,024 - INFO - 127.0.0.1 - - [15/Mar/2025 10:56:02] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-03-15 10:56:02,075 - INFO - 127.0.0.1 - - [15/Mar/2025 10:56:02] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=z93awPun5PfwwmkggsW4 HTTP/1.1" 200 -
+2025-03-15 10:56:02,577 - INFO - 127.0.0.1 - - [15/Mar/2025 10:56:02] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-03-15 11:12:39,231 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-15 11:12:39,231 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-15 11:12:39,233 - INFO -  * Restarting with stat
+2025-03-15 11:12:40,452 - WARNING -  * Debugger is active!
+2025-03-15 11:12:40,455 - INFO -  * Debugger PIN: 452-009-470
